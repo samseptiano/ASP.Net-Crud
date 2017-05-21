@@ -1,0 +1,59 @@
+﻿#Label1
+{
+    font-size: xx-large;
+}
+a
+{
+    color:crimson;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: large;
+}
+a:hover
+{
+    color:green;
+    font-size: larger;
+}
+.auto-style10 {
+    height: 241px;
+}
+.auto-style11 {
+    height: 204px;
+}
+.auto-style12 {
+    width: 234px;
+    height: 241px;
+}
+.auto-style13 {
+    width: 234px;
+    height: 204px;
+}
+.auto-style16 {
+    width: 131px;
+
+}
+.auto-style17 {
+    width: 90px;
+}
+.auto-style18 {
+    width: 233px;
+    height: 241px;
+}
+.auto-style19 {
+    width: 233px;
+    height: 204px;
+}
+#TextArea1 {
+    width: 201px;
+}
+#left {
+    float: left;
+    width: 84%;
+}
+#right {
+    float: right;
+    width: 10%;
+}
+#table1 {
+    width: 100%;
+}
